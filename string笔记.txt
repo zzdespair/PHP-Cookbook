@@ -1,0 +1,2 @@
+关于Heredocs 技术解释
+http://blog.csdn.net/phpfenghuo/article/details/23056735
